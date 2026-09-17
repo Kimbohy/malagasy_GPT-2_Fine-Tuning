@@ -416,10 +416,6 @@ Malagasy Text Generation
 - Weights & Biases
 - Jupyter Notebook
 
-## 📜 License
-
-Add the appropriate license for your code and verify the license/usage conditions of the Soratra dataset before redistributing it.
-
 ---
 
 **Made with 🇲🇬 and 🤗 for Malagasy NLP research and experimentation.**
